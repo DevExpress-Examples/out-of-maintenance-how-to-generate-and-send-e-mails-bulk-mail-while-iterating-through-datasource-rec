@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [RichEditMailMessageExporter.cs](./CS/RichEditMailMessageExporter.cs) (VB: [RichEditMailMessageExporter.vb](./VB/RichEditMailMessageExporter.vb))
+<!-- default file list end -->
 # How to generate and send e-mails (bulk mail) while iterating through datasource records
 
 
